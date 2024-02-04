@@ -1,0 +1,85 @@
+  224  git init
+  225  git status
+  226  git add fitxer1.txt
+  227  git init
+  228  git add fitxer1.txt
+  229  git log
+  231  git add fitxer1.txt
+  232  git status
+  233  git commit -m "2on commit"
+  234  git config
+  235  git log
+  501  git init
+  516  find /home/ameno "*.git"
+  522  man git
+  551  git init
+  553  git add 1.txt 
+  554  git commit -m "1r commit"
+  555  git config "arleyrodriguezmeno05@gmail.com"
+  556  git config --global "arleyrodriguezmeno05@gmail.com"
+  557  git config --global arleyrodriguezmeno05@gmail.com
+  558  git config --global user.email "arleyrodriguezmeno05@gmail.com"
+  559  git config --global user.name "Arley"
+  560  git commit -m "1r commit"
+  561  git status
+  562  git add 2.txt 
+  563  git commit -m "2d commit"
+  565  git status
+  566  git log
+  580  git init
+  582  git status
+  583  git add 1.txt 
+  584  git status
+  585  git add 2.txt 
+  586  git status
+  587  git commit "master 1"
+  588  git commit 1.txt "master 1"
+  993  history | grep "git"
+  994  history | grep "git" > touch "comandos_git"
+  995  history | grep "git" > nano "comandos_git"
+  996  nano "comandos_git.txt" ; history | grep "git" > "comandos_git.txt"
+ 1000  history | grep "git" >  "comandos_git.txt"
+ 1001  nano "comandos_git.txt" 
+ 1003  git init
+ 1004  git status
+ 1005  git add E02.html captura.png estil.css 
+ 1006  git log
+ 1007  git commit -m "commit 1"
+ 1008  git log
+ 1009  git status
+ 1011  git remote add origin git@github.com:ArleyAlejandro/patata.git
+ 1012  git push -u origin main
+ 1013  man git
+ 1014  git man
+ 1015  git --help
+ 1016  git --help -a
+ 1017  git push -u origin master
+ 1018  git log
+ 1019  git push -u origin master
+ 1044  git push -u origin master
+ 1057  cd act_git/
+ 1058  git push -u origin master
+ 1059  git remote -v
+ 1061  git log --graph --all --oneline
+ 1062  git remote add origin "git@github.com:ArleyAlejandro/patata.git"
+ 1063  git remote -v
+ 1064  git push origin master
+ 1066  ssh -T git@github.com
+ 1072  ssh -T git@github.com
+ 1075  ssh -T git@github.com
+ 1076  git push origin master
+ 1079  ssh -T git@github.com
+ 1080  git push origin master
+ 1082  git help
+ 1083  git branch help
+ 1084  git status
+ 1085  git log
+ 1086  git branch -a
+ 1087  git branch -h
+ 1088  git branch -d help
+ 1089  git log
+ 1091  git log --graph --all --oneline
+ 1092  history | grep "git" > /Documentos/M8/Actividades/act_git/comandos_git.txt
+ 1093  history | grep "git" > /home/ameno/Documentos/M8/Teoría/comandos_git.txt
+ 1094  history | grep "git"
+ 1095  history | grep "git" >> /home/ameno/Documentos/M8/Teoría/comandos_git.txt
