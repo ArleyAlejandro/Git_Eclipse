@@ -15,6 +15,8 @@ public class BinarioADecimal {
         int decimal = convertirBinarioADecimal(numeroBinario);
         System.out.println("El número decimal equivalente es: " + decimal);
 
+        System.out.println("Esta será la nueva funcionalidad");
+        
         scanner.close();
     }
 
@@ -32,5 +34,7 @@ public class BinarioADecimal {
         }
 
         return decimal;
+        
+      
     }
 }
