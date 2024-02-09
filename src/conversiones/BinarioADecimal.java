@@ -16,7 +16,7 @@ public class BinarioADecimal {
         System.out.println("El número decimal equivalente es: " + decimal);
 
         System.out.println("Esta será la nueva funcionalidad");
-        
+        System.out.println("PRUEBAS!!!!!");
         scanner.close();
     }
 
